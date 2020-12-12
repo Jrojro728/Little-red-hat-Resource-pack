@@ -1,7 +1,7 @@
 # Little-red-hat-Resource-pack
 Minecraft Resource pack
-some Entity have red hat
-Each version will add a little 
+some Entity have red hat,
+Each version will add a little.
 
 Chinese 中文
 我的世界材质包
